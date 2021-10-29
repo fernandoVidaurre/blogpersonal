@@ -2,4 +2,4 @@ Esta es la historia de julio vidaurre
 
 informatico y programador java
 
-hoy estamos creando un repo en github
+hoy estamos creando un repo en github y archivos
